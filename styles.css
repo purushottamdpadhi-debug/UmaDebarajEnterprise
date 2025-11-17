@@ -168,7 +168,7 @@ nav a:hover {
 /* Hero Section */
 .hero {
   background: linear-gradient(rgba(0,64,128,0.7), rgba(0,64,128,0.7)), 
-              url('assets/hero-image.jpg') center/cover no-repeat;
+              url('assets/hero-image.JPG') center/cover no-repeat;
   color: #fff;
   text-align: center;
   padding: 5rem 2rem;
@@ -199,3 +199,4 @@ nav a:hover {
   height: 50px;   /* Adjust size */
   width: auto;
 }
+
